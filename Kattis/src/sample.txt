@@ -1,5 +1,11 @@
-2 0 0 2
-4 16 8 2
-2 64 32 4
-1024 1024 64 0
-2
+3
+5
+2 chocolate
+2 icecream
+1 chocolate
+1 cookies
+0 cookies
+3
+cookies
+chocolate
+icecream
