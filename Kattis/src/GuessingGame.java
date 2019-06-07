@@ -34,7 +34,7 @@ public class GuessingGame {
             }
             if (max < min) answer = wrongAnswer;
 
-//            System.out.println("min and max: " + min + " & " + max);
+//            System.out.println("minRange and maxRange: " + minRange + " & " + maxRange);
             s = sc.nextLine();
 
         }
